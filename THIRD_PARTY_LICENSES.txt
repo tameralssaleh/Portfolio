@@ -1,0 +1,11 @@
+This project uses the following open source software:
+
+React
+Copyright (c) Meta Platforms, Inc. and affiliates.
+Licensed under the MIT License.
+https://github.com/facebook/react
+
+Bootstrap
+Copyright (c) 2011-2024 Twitter, Inc.
+Licensed under the MIT License.
+https://github.com/twbs/bootstrap
