@@ -6,6 +6,7 @@ Welcome to my portfolio, this portfolio was made using React & Bootstrap CSS and
 For licenses of React and Bootstrap CSS, please refer to their respective documentation:
 - React: [React License](https://reactjs.org/LICENSE) (MIT)
 - Bootstrap CSS: [Bootstrap License](https://github.com/twbs/bootstrap) (MIT)
+---
 You can also check the `THIRD_PARTY_LICENSES.TXT` file in this repository for a list of all third-party libraries used in this project and their respective licenses.
 ## Domain
 This portfolio, once finished, will be live at https://tkalssaleh.xyz/.
