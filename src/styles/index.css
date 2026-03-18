@@ -1,0 +1,78 @@
+/* Global non-bootstrap styles */
+
+/* Body */
+
+/* #root ensures the react DOM is centered */
+body, #root {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(32, 42, 70);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Text elements */
+
+h1, h2, h3, h4, h5, h6, p, a, span {
+    color: rgb(255, 255, 255);
+}
+
+/* Fonts & font styles */
+
+.roboto {
+    font-family: 'roboto';
+}
+.bold {
+    font-weight: bold;
+}
+.link {
+    text-decoration: none;
+    color: rgb(80, 185, 136);
+    cursor: pointer;
+    transition: color 0.25s ease-in-out;
+}
+.link:hover {
+    color: rgb(162, 255, 211);
+}
+
+/* Font sizes for headings, paragraphs, and links */
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+h6 {
+    font-size: 0.75rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Progress bar */
+
+#nprogress .bar {
+    background: rgb(67, 189, 113) !important;
+}
