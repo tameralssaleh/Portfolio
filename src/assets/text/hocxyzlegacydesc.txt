@@ -1,0 +1,1 @@
+This project is the legacy version of the official House of Code website that is no longer live. It was maintained using vanilla HTML/CSS/JS and PHP. This project is open-sourced and anyone can find it via GitHub and use it for learning purposes.

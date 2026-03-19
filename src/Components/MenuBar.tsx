@@ -1,13 +1,14 @@
 import { Link } from "react-router-dom"
+import "../styles/index.css"
 
 function MenuBar() {
     return (
         <nav>
-            <div>
-                <Link to="/">Home</Link>
-                <Link to="/about">About</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/experience">Experience</Link>
+            <div className="d-flex align-center justify-content-center gap-5 rounded-4 p-2 menu-bar" style={{ width: "50vw" }}>
+                <h2><Link className="link bold" to="/">Home</Link></h2>
+                <h2><Link className="link bold" to="/about">About</Link></h2>
+                <h2><Link className="link bold" to="/projects">Projects</Link></h2>
+                <h2><Link className="link bold" to="/experience">Experience</Link></h2>
             </div>
         </nav>
     )
