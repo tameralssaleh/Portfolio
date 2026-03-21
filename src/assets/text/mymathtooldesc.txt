@@ -1,0 +1,1 @@
+My Math Tool was a personal project of mine where I use C# and Nuget libraries to build a "multi-tool" kind of desktop calculator. This project is not yet finished and so far has graphing capabilities, a programming calculator, a logic gate evaluating tool, numbering system conversions, color code calculator, etc.

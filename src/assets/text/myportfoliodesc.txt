@@ -1,0 +1,1 @@
+This project serves as the very webpage you are browsing; my portfolio! This portfolio was made using React, Bootstrap, and a few other JavaScript libraries. This project is meant to showcase all of my projects, work experience, and just information about myself. This project in itself also serves to demonstrate my React and overall frontend skills.
