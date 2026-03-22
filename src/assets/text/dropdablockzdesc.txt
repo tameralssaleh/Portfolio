@@ -1,0 +1,1 @@
+Drop Da Blockz was a 2D recreation of the popular game "Tetris", with a few twists. This game was developed for a workshop at the ACM chapter of my college. This project was worked on with the help of a fellow student and ACM member Jakobie Brown. Drop Da Blockz was written in Python using the popular 2D library called "Pygame".
