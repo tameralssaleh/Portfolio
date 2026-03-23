@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-        <BrowserRouter>
+        <BrowserRouter basename="/Portfolio">
             <ProgressBar />
             <Routes>
                 <Route path="/" element={<Home />} />
